@@ -30,6 +30,8 @@ fun main(){
 
     println("El primer color es ${RGB.valueOf("RED")}")
     println("El primer color es ${RGB.valueOf("GREEN")}")
+    println("El primer color es ${RGB.valueOf("BLUE")}")
+
 
 
     var riversArray = arrayOf("Nile","Amazon","Yangtaze")
