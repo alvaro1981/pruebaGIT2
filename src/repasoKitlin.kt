@@ -37,6 +37,7 @@ fun main(){
     var riversArray = arrayOf("Nile","Amazon","Yangtaze")
 
     riversArray += "Missisipi"
+    riversArray += "Aconcagua"
     println(riversArray.joinToString())
     val simpleArray = arrayOf(1,2,3)
     println(simpleArray.joinToString())
